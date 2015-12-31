@@ -1,8 +1,8 @@
 # Site settings
 title: Bijles Bij Blom | Professioneel en resultaatgericht.
 description: "Bijles voor middelbare scholieren."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+baseurl: "http://netwerken.github.io/BijlesbijBlom/" # the subpath of your site, e.g. /blog
+url: "http://netwerken.github.io/BijlesbijBlom/" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
