@@ -16,32 +16,31 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: +31625263312
+    email: Sietseblom@gmail.com
+    address: Staringplein, Amsterdam
 
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+# Openingstijden
+maandag_vrijdag: 9:00 – 18:00
+zaterdag: 10:00 – 17:00
+zondag: 10:00 – 15:00
 
-# Testimonials
+# Ervaringen
 testimonials:
     testimonials_img: parallax.jpg
 
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Staringplein, Amsterdam
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
+facebook: http://facebook.com/sietse.blom
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+skype: skype:Sietse Blom
 feed: yes
 
 # Footer
