@@ -19,16 +19,19 @@ layout: default
             <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Maak hier meteen een afspraak</h3>
             <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
                 <div class="form-field">
-                    <input name="name" type="text" placeholder="Name" required>
+                    <input name="name" type="text" placeholder="Naam" required>
                 </div>
                 <div class="form-field">
-                    <input name="phone" type="tel" placeholder="Phone" required>
+                    <input name="phone" type="tel" placeholder="Telefoonnummer" required>
                 </div>
                 <div class="form-field">
                     <input name="email" type="email" placeholder="Email" required>
                 </div>
                 <div class="form-field">
-                    <textarea name="comments" placeholder="Message" required></textarea>
+                    <input name="vakken" type="vakken" placeholder="Voor welk(e) vak(ken) wil je bijles?" required>
+                </div>
+                <div class="form-field">
+                    <textarea name="comments" placeholder="Bericht (zijn er extra zaken waar de bijlesgever rekening mee moet houden?)" required></textarea>
                 </div>
                 <input type="submit" class="btn btn-default" value="Send">
             </form>
