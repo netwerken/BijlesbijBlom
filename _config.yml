@@ -21,12 +21,12 @@ contact:
     address: Staringplein, Amsterdam
 
 # Openingstijden
-maandag_vrijdag: 9:00 – 18:00
-zaterdag: 10:00 – 17:00
-zondag: 10:00 – 15:00
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
 
 # Ervaringen
-Ervaringen:
+testimonials:
     testimonials_img: parallax.jpg
 
 # Map
