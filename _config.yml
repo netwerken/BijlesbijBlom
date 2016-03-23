@@ -3,7 +3,7 @@ title: Bijles Bij Blom | Professioneel en resultaatgericht.
 description: "Bijles voor middelbare scholieren."
 baseurl: "http://netwerken.github.io/BijlesbijBlom/" # the subpath of your site, e.g. /blog
 url: "http://netwerken.github.io/BijlesbijBlom/" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: https://cloud.githubusercontent.com/assets/14966904/13994172/dece7892-f123-11e5-8f7c-cdd07a8ac2b6.jpg
 
 # Hero
 hero: 
