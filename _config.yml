@@ -7,7 +7,7 @@ logo_url: https://cloud.githubusercontent.com/assets/14966904/14042954/2e737d0a-
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: https://cloud.githubusercontent.com/assets/14966904/14059862/fde6aa86-f350-11e5-95a9-63d2c3db42b7.jpg
     hero_title:
     hero_description: Professioneel en resultaatgericht.
 
@@ -16,7 +16,7 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 0625263312
+    phone: +31625263312
     email: Sietseblom@gmail.com
     address: Staringplein, Amsterdam
 
