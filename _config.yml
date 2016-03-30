@@ -36,10 +36,10 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com/sietse.blom
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
+facebook: http://facebook.com/sietse.blom/
+twitter: http://twitter.com/sietseblom/
+instagram: http://instagram.com/sietseblom/
+#youtube: http://youtube.com
 skype: skype:Sietse Blom
 feed: yes
 
